@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("This is a sample Python file.")
+print("It contains some random text at the beginning.")
+print("The random text is not valid Python code.")
+print("But it is here to demonstrate how to handle such cases.")
